@@ -1,4 +1,4 @@
-# SYSC 3110 Course Project
+# K-Nearest Neighbors 
 The goal of this project is to perform machine learning on simple problems, by using the kNN technique. kNN or "k-Nearest Neighbours" finds the nearest neighbours to the tuple to predict by using a combination of distance functions for the features.
 
 ## Getting Started
